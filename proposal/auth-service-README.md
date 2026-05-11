@@ -1,1 +1,1 @@
-```\n# Auth Service\n\nThis is an OAuth2 / JWT authentication microservice.\n\n## Features\n- User authentication\n- Token generation\n- Token validation\n\n## Usage\n- Start the service: `python app.py`\n- Configure settings in `config/settings.json`\n```
+4097a7f93677e9216d6626f509cb4862a8141199

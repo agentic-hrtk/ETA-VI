@@ -1,1 +1,1 @@
-```\n# ML Model Training\n\nThis repository contains the proprietary ML pipeline for customer churn and LTV prediction.\n\n## Features\n- Data preprocessing\n- Model training\n- Model evaluation\n\n## Usage\n- Train the model: `python train.py`\n- Evaluate the model: `python evaluate.py`\n```
+0bd9798420db0dc2c88b058b7422d8492ff75689

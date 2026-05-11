@@ -1,1 +1,1 @@
-```\n# Financial Reporting\n\nThis repository contains the scripts for generating and filing quarterly financial reports.\n\n## Features\n- Data collection\n- Report generation\n- Filing\n\n## Usage\n- Generate reports: `python generate.py`\n- File reports: `python file.py`\n```
+2d735ab3e2e35f7e3083d8dbf7ded7a418045fb3

@@ -1,1 +1,1 @@
-```\n# Customer Data Pipeline\n\nThis repository contains the ETL pipeline for customer analytics and segmentation.\n\n## Features\n- Data extraction\n- Data transformation\n- Data loading\n\n## Usage\n- Run the pipeline: `python pipeline.py`\n```
+c9965b11211df7023beec5a871af9510224d6223
