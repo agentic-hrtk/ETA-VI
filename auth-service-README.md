@@ -1,1 +1,1 @@
-[README content from auth-service]
+4097a7f93677e9216d6626f509cb4862a8141199
