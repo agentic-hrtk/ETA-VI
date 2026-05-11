@@ -1,11 +1,1 @@
-### Payroll Processor
-
-This repository contains the bi-weekly payroll computation and ACH transfer engine.
-
-## Features
-- Payroll computation
-- ACH transfer
-
-## Usage
-- Compute payroll: `python compute.py`
-- Transfer funds: `python transfer.py`
+```\n# Payroll Processor\n\nThis repository contains the bi-weekly payroll computation and ACH transfer engine.\n\n## Features\n- Payroll computation\n- ACH transfer\n\n## Usage\n- Compute payroll: `python compute.py`\n- Transfer funds: `python transfer.py`\n```

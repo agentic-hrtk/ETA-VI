@@ -1,11 +1,1 @@
-### Internal HR System
-
-This repository contains the employee management and HR portal (internal).
-
-## Features
-- Employee management
-- HR portal
-
-## Usage
-- Start the service: `python app.py`
-- Configure settings in `config/settings.json`
+```\n# Internal HR System\n\nThis repository contains the employee management and HR portal (internal).\n\n## Features\n- Employee management\n- HR portal\n\n## Usage\n- Start the service: `python app.py`\n- Configure settings in `config/settings.json`\n```

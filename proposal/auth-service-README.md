@@ -1,12 +1,1 @@
-### Auth Service
-
-This is an OAuth2 / JWT authentication microservice.
-
-## Features
-- User authentication
-- Token generation
-- Token validation
-
-## Usage
-- Start the service: `python app.py`
-- Configure settings in `config/settings.json`
+```\n# Auth Service\n\nThis is an OAuth2 / JWT authentication microservice.\n\n## Features\n- User authentication\n- Token generation\n- Token validation\n\n## Usage\n- Start the service: `python app.py`\n- Configure settings in `config/settings.json`\n```
