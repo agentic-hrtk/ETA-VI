@@ -13,7 +13,3 @@
 ## Other Repositories
 
 - [ETA-VI](https://github.com/agentic-hrtk/ETA-VI)
-
----
-
-[Original README.md content]
