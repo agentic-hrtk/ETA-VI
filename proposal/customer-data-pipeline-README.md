@@ -1,1 +1,0 @@
-REPLACE_WITH_CONTENT_FROM_customer-data-pipeline
