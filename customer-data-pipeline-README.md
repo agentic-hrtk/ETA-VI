@@ -1,1 +1,1 @@
-[customer-data-pipeline README content]
+[README content from customer-data-pipeline]

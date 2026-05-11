@@ -1,1 +1,1 @@
-[auth-service README content]
+[README content from auth-service]

@@ -1,1 +1,1 @@
-[financial-reporting README content]
+[README content from financial-reporting]

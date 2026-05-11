@@ -1,1 +1,1 @@
-[api-gateway README content]
+[README content from api-gateway]
